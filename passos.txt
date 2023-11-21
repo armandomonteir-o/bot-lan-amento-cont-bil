@@ -1,0 +1,13 @@
+- entrar na planilha
+copiar informação de um campo e colar no seu campo correspondente
+repetir esses passos para outros campos até preencher campos daquela pagina
+clicar em proxima
+repetir os mesmos passos e ir para a proxima pagina (pag2)
+repetir os mesmos passos e finalizar o cadastro daquele produto e clicar em concluir
+clicar em ok para finalizar o processo
+clicar em ok novamente para mais uma confirmação de salvamento no banco de dados
+clicar em adicionar mais um e repetir o processo
+
+#PyAutoGUI ( automação de clicks e teclado)
+Selenium (mais útil em aplicações web)
+#Openpyxl ( leitura e automação de planilhas)
