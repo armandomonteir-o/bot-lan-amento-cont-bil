@@ -12,7 +12,7 @@ Bot assistente que realiza funções de lançamento contábil para uma empresa f
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ```
-<linha de comando>
+git clone https://github.com/armandomonteir-o/bot-lan-amento-cont-bil.git
 ```
 
 ## :soon: Implementação futura
