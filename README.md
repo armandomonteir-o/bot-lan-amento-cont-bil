@@ -16,7 +16,7 @@ git clone https://github.com/armandomonteir-o/bot-lan-amento-cont-bil.git
 ```
 
 ## :soon: Implementação futura
-* 
+Será utilizado por trabalhadores do setor Contábil para otimizar o trabalho de lançamento de dados dos mesmos.
 
 ## :handshake: Colaboradores
 <table>
